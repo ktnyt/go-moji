@@ -23,7 +23,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ktnyt/moji"
+	"github.com/ktnyt/go-moji"
 )
 
 func main() {
