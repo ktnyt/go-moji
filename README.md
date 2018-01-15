@@ -1,4 +1,8 @@
 # go-moji
+[[!Build Status](https://circleci.com/gh/ktnyt/go-moji.svg?style=shield&circle-token==7da9cb901d095995e930651e7298c8ab233a0c85)](https://circleci.com/gh/ktnyt/go-moji)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ktnyt/go-moji)](https://goreportcard.com/report/github.com/ktnyt/go-moji)
+[![GoDoc](http://godoc.org/github.com/ktnyt/go-moji?status.svg)](http://godoc.org/github.com/ktnyt/go-moji)
+
 This package provides a Go interface for converting between Zenkaku (全角 i.e. full-width) and Hankaku (半角 i.e. half-width) characters (mostly for Japanese). The library has been largely influenced by [niwaringo/moji](https://github.com/niwaringo/moji) the JavaScript implementation.
 
 For detailed information of the API, see the [documents](https://godoc.org/github.com/ktnyt/go-moji).
