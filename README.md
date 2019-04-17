@@ -56,7 +56,7 @@ func main() {
 ```
 
 ## Copyright
-Copyright (C) 2018 by Kotone Itaya <kotone@sfc.keio.ac.jp>
+Copyright (C) 2018 by Kotone Itaya <kotone [at] sfc.keio.ac.jp>
 
 go-moji is released under the terms of the MIT License.
 See [LICENSE](https://github.com/ktnyt/go-moji/blob/master/LICENSE) for details.
